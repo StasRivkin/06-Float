@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Poller One', cursive;
-    background-image: url("../Images/sky.jpg");
+    background-image: url("./Images/sky.jpg");
     background-attachment: fixed;
     color: goldenrod;
 }
